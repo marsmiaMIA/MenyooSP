@@ -1,6 +1,4 @@
-[![GitHub Current Version)](https://img.shields.io/github/v/release/itsjustcurtis/MenyooSP?label=Release%20Version&logo=GitHub)](https://github.com/itsjustcurtis/MenyooSP/releases/latest/download/MenyooSP.zip)
-[![GitHub all releases](https://img.shields.io/github/downloads/itsjustcurtis/MenyooSP/total?label=Total%20Downloads&logo=GitHub)](https://github.com/itsjustcurtis/MenyooSP/releases)
-
+Just a little vibe-code version of mneyoo with some of my personal additions to it
 <img width="1280" height="720" alt="banner_FINALB" src="https://github.com/user-attachments/assets/6ce3c340-a0a3-4f47-90a7-37e1f4d674f3" />
 
 
